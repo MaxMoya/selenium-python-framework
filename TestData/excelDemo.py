@@ -1,4 +1,4 @@
-import openpyxl
+'''import openpyxl
 book =openpyxl.load_workbook("C:\\Users\\Owner\\Documents\\PythonDemo.xlsx")
 sheet =book.active
 Dict = {}
@@ -21,7 +21,7 @@ for i in range(1,sheet.max_row+1):  # to get rows
             #Dict["lastname"]="shetty
             Dict[sheet.cell(row=1, column=j).value]= sheet.cell(row=i, column=j).value
 
-print(Dict)
+print(Dict)'''
 
 
 
