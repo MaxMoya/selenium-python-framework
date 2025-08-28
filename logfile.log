@@ -1,0 +1,26 @@
+2025-08-28 13:29:03,658 :INFO : test_confirmpage :Starting the test to confirm checkout page functionality.
+2025-08-28 13:29:05,448 :INFO : test_confirmpage :Navigating to the checkout confirmation page.
+2025-08-28 13:29:05,548 :INFO : test_confirmpage :Typing 'united' into the country field.
+2025-08-28 13:29:10,798 :INFO : test_confirmpage :Iterating through the country suggestions.
+2025-08-28 13:29:10,826 :INFO : test_confirmpage :Found and selecting country: United States of America
+2025-08-28 13:29:10,899 :INFO : test_confirmpage :Clicking the checkbox and purchase button.
+2025-08-28 13:29:11,205 :INFO : test_confirmpage :Checking for success message: '×
+Success! Thank you! Your order will be delivered in next few weeks :-).'
+2025-08-28 13:29:11,206 :INFO : test_confirmpage :Test completed successfully. Success message confirmed.
+2025-08-28 13:44:29,824 :INFO : test_confirmpage :Starting the test to confirm checkout page functionality.
+2025-08-28 13:44:31,513 :INFO : test_confirmpage :Navigating to the checkout confirmation page.
+2025-08-28 13:44:31,616 :INFO : test_confirmpage :Typing 'united' into the country field.
+2025-08-28 13:44:36,861 :INFO : test_confirmpage :Iterating through the country suggestions.
+2025-08-28 13:44:36,887 :INFO : test_confirmpage :Found and selecting country: United States of America
+2025-08-28 13:44:36,956 :INFO : test_confirmpage :Clicking the checkbox and purchase button.
+2025-08-28 13:44:37,182 :INFO : test_confirmpage :Checking for success message: '×
+Success! Thank you! Your order will be delivered in next few weeks :-).'
+2025-08-28 13:44:37,182 :INFO : test_confirmpage :Test completed successfully. Success message confirmed.
+2025-08-28 13:44:52,222 :INFO : test_e2e :getting all the card titles
+2025-08-28 13:44:52,312 :INFO : test_e2e :iphone X
+2025-08-28 13:44:52,321 :INFO : test_e2e :Samsung Note 8
+2025-08-28 13:44:52,332 :INFO : test_e2e :Nokia Edge
+2025-08-28 13:44:52,342 :INFO : test_e2e :Blackberry
+2025-08-28 13:44:52,650 :INFO : test_e2e :Entering country name as ind
+2025-08-28 13:44:58,635 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).

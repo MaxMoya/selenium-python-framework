@@ -362,3 +362,20 @@ Success! Thank you! Your order will be delivered in next few weeks :-).
 2025-08-24 11:53:14,757 :INFO : test_confirmpage :Checking for success message: '×
 Success! Thank you! Your order will be delivered in next few weeks :-).'
 2025-08-24 11:53:14,757 :INFO : test_confirmpage :Test completed successfully. Success message confirmed.
+2025-08-25 22:39:56,798 :INFO : test_confirmpage :Starting the test to confirm checkout page functionality.
+2025-08-25 22:39:59,325 :INFO : test_confirmpage :Navigating to the checkout confirmation page.
+2025-08-25 22:39:59,469 :INFO : test_confirmpage :Typing 'united' into the country field.
+2025-08-25 22:40:04,819 :INFO : test_confirmpage :Iterating through the country suggestions.
+2025-08-25 22:40:04,861 :INFO : test_confirmpage :Found and selecting country: United States of America
+2025-08-25 22:40:04,976 :INFO : test_confirmpage :Clicking the checkbox and purchase button.
+2025-08-25 22:40:05,219 :INFO : test_confirmpage :Checking for success message: '×
+Success! Thank you! Your order will be delivered in next few weeks :-).'
+2025-08-25 22:40:05,219 :INFO : test_confirmpage :Test completed successfully. Success message confirmed.
+2025-08-28 13:12:49,374 :INFO : test_e2e :getting all the card titles
+2025-08-28 13:12:49,505 :INFO : test_e2e :iphone X
+2025-08-28 13:12:49,519 :INFO : test_e2e :Samsung Note 8
+2025-08-28 13:12:49,532 :INFO : test_e2e :Nokia Edge
+2025-08-28 13:12:49,545 :INFO : test_e2e :Blackberry
+2025-08-28 13:12:50,014 :INFO : test_e2e :Entering country name as ind
+2025-08-28 13:12:55,853 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
